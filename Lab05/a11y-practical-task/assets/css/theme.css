@@ -13114,12 +13114,12 @@ button.bg-dark:hover {
 }
 
 .text-primary {
-	color: #ff6f61!important
+	color: #b20000 !important
 }
 
 a.text-primary:focus,
 a.text-primary:hover {
-	color: #ff2915!important
+	color: darkred !important
 }
 
 .text-secondary {
@@ -13835,7 +13835,7 @@ a.card-img-overlay:hover {
 	justify-content: center;
 	width: 70px;
 	height: 70px;
-	background-color: #ff6f61;
+	background-color: #b20000;
 	border-radius: 50%;
 	color: #fff
 }
@@ -14779,16 +14779,16 @@ a.card-img-overlay:hover {
 }
 
 .nav-link.active {
-	color: #ff6f61
+	color: #b20000
 }
 
 .nav-link.active:focus,
 .nav-link.active:hover {
-	color: #ff6f61
+	color: #b20000
 }
 
 .nav-link:hover {
-	color: #ff6f61
+	color: #b20000
 }
 
 .nav-link.active {
