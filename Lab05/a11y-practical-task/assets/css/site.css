@@ -1,3 +1,25 @@
+.skip-to-content-link {
+	background: deepskyblue;
+	color: white;
+	height: 40px;
+	left: 50%;
+	padding: 8px;
+	position: absolute;
+	z-index: 10;
+	transform: translateY(-100%);
+	transition: transform 0.3s, font-size 0.3s;
+	font-size: 16px;
+	outline-color: transparent;
+}
+.skip-to-content-link:hover {
+	color: white;
+	font-size: 17px;
+}
+
+.skip-to-content-link:focus {
+	transform: translateY(0%);
+}
+
 .promo
 {
 	margin-bottom:0px!important;
